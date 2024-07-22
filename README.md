@@ -1,1 +1,2 @@
-# D-prediction
+# diabetes-prediction
+project using ML
